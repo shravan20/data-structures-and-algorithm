@@ -33,3 +33,5 @@ This repository contains JavaScript based examples of many popular algorithms an
 ║  Hash Tables  ║     N/A     ║   O(1)   ║    O(1)   ║   O(1)   ║     N/A     ║   O(n)   ║    O(n)   ║   O(n)   ║    O(n)    ║
 ╚═══════════════╩═════════════╩══════════╩═══════════╩══════════╩═════════════╩══════════╩═══════════╩══════════╩════════════╝
 ```
+### Pending
+
