@@ -37,3 +37,13 @@ This repository contains JavaScript based examples of many popular algorithms an
 
 ![](https://he-s3.s3.amazonaws.com/media/uploads/c950295.png)
 
+
+### Different types of Algorithmic Approaches:
+
+1. Brute Force Algorithm
+2. Recursive Algorithm
+3. Divide & Conquer Algorithm
+4. Dynamic Programming Algorithm
+5. Greedy Algorithm
+6. Backtracking Algorithm
+
