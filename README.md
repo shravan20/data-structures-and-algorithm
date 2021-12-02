@@ -40,11 +40,17 @@ This repository contains JavaScript based examples of many popular algorithms an
 
 ### Different types of Algorithmic Approaches:
 
-1. Brute Force Algorithm
-2. Recursive Algorithm
-3. Divide & Conquer Algorithm
-4. Dynamic Programming Algorithm
-5. Greedy Algorithm
-6. Backtracking Algorithm
-7. Branch and Bound Algorithm
+1. **Brute Force Algorithm**: To device an optimal solution first we need to get a solution at least and then try to optimise it. Every problem can be solved by brute force approach although generally not with appreciable space and time complexity.
 
+2. **Recursive Algorithm**: An approach where an algorithm calls itself again and again until a base condition is achieved whereas iterative algorithm uses loops. Every recursive problem can be solved as an iterative solution and vice versa.
+
+3. **Divide & Conquer Algorithm**: It works on a top-down approach and is preferred for a large problems, where basically you divide the problems into several sub problems. Conquer/Solve each sub problem and combine each sub-problem to get the required result. This algorithm divides the problems into subproblems and then solve each of them and then combine them to form the solution of the given problems.
+
+4. **Dynamic Programming Algorithm**:  It is a bottom-up approach, where we solve all possible small problems then combine them to obtain solutions for bigger problems. Particularly helpful when the number of copying subproblems is exponentially large, and closely related to Optimization problem.
+This is a technique for solving optimization problems by breaking them into smaller sub-problems and storing sub-solutionso that the correspinding sub-problem can be solved only once.  Its simply means remembering the past and apply it to future corresponding results and hence this algorithm is quite efficient in terms of time complexity. It is a good methodology for optimization problems that seek the maximal/minimal solutio with restriction as it searches through all possible sub problems and never recomputes the conclusion to any sub problem.
+
+5. **Greedy Algorithm**: In greedy approach, at each step, a decision is made to choose the local optimum, without thinking about the future consequences. It is usually used to solve the optimization problem. An optimization problem is one in which we are given a set of input values, which are required either to be maximized or minimized (known as objective), i.e. some constraints/conditions. This approach doesn't always guarantee the optimal solution however generally produces a solution that is very close in value to the optimal.
+
+6. **Backtracking Algorithm**
+
+7. **Branch and Bound Algorithm**
