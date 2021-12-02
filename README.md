@@ -46,4 +46,5 @@ This repository contains JavaScript based examples of many popular algorithms an
 4. Dynamic Programming Algorithm
 5. Greedy Algorithm
 6. Backtracking Algorithm
+7. Branch and Bound Algorithm
 
