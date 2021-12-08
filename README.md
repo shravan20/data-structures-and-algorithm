@@ -51,6 +51,6 @@ This is a technique for solving optimization problems by breaking them into smal
 
 5. **Greedy Algorithm**: In greedy approach, at each step, a decision is made to choose the local optimum, without thinking about the future consequences. It is usually used to solve the optimization problem. An optimization problem is one in which we are given a set of input values, which are required either to be maximized or minimized (known as objective), i.e. some constraints/conditions. This approach doesn't always guarantee the optimal solution however generally produces a solution that is very close in value to the optimal.
 
-6. **Backtracking Algorithm**
+6. **Backtracking Algorithm**: In any backtracking problems, the algorithm tries to find a path to the feasible solution which has some intermediary checkpoints. In case they don’t lead to the feasible solution, the problem can backtrack from the checkpoints and take another path in search of the solution.
 
 7. **Branch and Bound Algorithm**
