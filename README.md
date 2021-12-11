@@ -53,4 +53,4 @@ This is a technique for solving optimization problems by breaking them into smal
 
 6. **Backtracking Algorithm**: In any backtracking problems, the algorithm tries to find a path to the feasible solution which has some intermediary checkpoints. In case they don’t lead to the feasible solution, the problem can backtrack from the checkpoints and take another path in search of the solution.
 
-7. **Branch and Bound Algorithm**
+7. **Branch and Bound Algorithm**: It is an algorithm design paradigm which is generally used for solving combinatorial problems. These problems are typically exponential in terms of time complexity and may require exploring all the possible permutations in worst case. 
