@@ -38,7 +38,9 @@ This repository contains JavaScript based examples of many popular algorithms an
 ![](https://he-s3.s3.amazonaws.com/media/uploads/c950295.png)
 
 
-### Different types of Algorithmic Approaches:
+
+<details> 
+<summary>Different types of Algorithmic Approaches:</summary>
 
 1. **Brute Force Algorithm**: To device an optimal solution first we need to get a solution at least and then try to optimise it. Every problem can be solved by brute force approach although generally not with appreciable space and time complexity.
 
@@ -54,3 +56,4 @@ This is a technique for solving optimization problems by breaking them into smal
 6. **Backtracking Algorithm**: In any backtracking problems, the algorithm tries to find a path to the feasible solution which has some intermediary checkpoints. In case they don’t lead to the feasible solution, the problem can backtrack from the checkpoints and take another path in search of the solution.
 
 7. **Branch and Bound Algorithm**: It is an algorithm design paradigm which is generally used for solving combinatorial problems. These problems are typically exponential in terms of time complexity and may require exploring all the possible permutations in worst case. 
+</details>
